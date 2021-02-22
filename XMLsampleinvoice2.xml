@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Manufacturers_Table>
+    <Manufacturer_row>
+        <Name>Toyota</Name>
+        <Established>1937-08-28T00:00:00</Established>
+        <City>Toyota City</City>
+        <Country>Japan</Country>
+    </Manufacturer_row>
+    <Manufacturer_row>
+        <Name>Nissan</Name>
+        <Established>1933-12-26T00:00:00</Established>
+        <City>Yokohama</City>
+        <Country>Japan</Country>
+    </Manufacturer_row>
+    <Manufacturer_row>
+        <Name>Honda</Name>
+        <Established>2008</Established>
+        <City>Lahore</City>
+        <Country>Pakistan</Country>
+    </Manufacturer_row>
+</Manufacturers_Table>
+      
+
